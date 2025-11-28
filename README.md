@@ -63,9 +63,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   estadisticas</h3>
-
-###
