@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">soy Tomás de Argentina<br><br>🔭 actualmente trabajo en ...<br>📚 estoy estudiando Ciencias de la Computación @ UBA</p>
+<p align="left">soy Tomás de Argentina<br><br>🔭 currently working as DBA for Subsecretaria de Tránsito, VL.<br>📚 estoy estudiando Ciencias de la Computación @ UBA</p>
 
 ###
 
