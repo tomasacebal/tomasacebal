@@ -1,6 +1,9 @@
 <div align="center">
+  
   [![GitHub Streak](https://streak-stats.demolab.com?user=tomasacebal&theme=transparent&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
+  
 </div>
+
 ###
 
 <div align="center">
