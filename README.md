@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHk2aGR2bW10bjNtaWJhYnpqOGI0ODJzMTFjc2NieHhpczZiNmhjYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriO7s9nX4kysPLTa/giphy.gif"  />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=tomasacebal&theme=transparent&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 
 ###
 
