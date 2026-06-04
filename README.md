@@ -1,67 +1,127 @@
 <div align="center">
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=tomasacebal&theme=transparent&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
-  
+
+# Hola, soy Tomás Acebal 👋
+
+### Software Developer · GovTech · Data & Management Systems
+
+Construyo soluciones digitales para gestión pública, análisis de datos y automatización de procesos.
+Me especializo en transformar operaciones complejas en sistemas claros, medibles y escalables.
+
+<br />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Augusto%20Tomás%20Acebal-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/augusto-tomas-acebal/)
+[![GitHub](https://img.shields.io/badge/GitHub-tomasacebal-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/tomasacebal)
+
+<br />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=tomasacebal\&theme=transparent\&hide_border=true\&short_numbers=true)](https://git.io/streak-stats)
+
 </div>
 
-###
+---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/augusto-tomas-acebal/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+## Sobre mí
 
-###
+Soy desarrollador argentino enfocado en la creación de sistemas de gestión, plataformas de análisis de datos y herramientas digitales para mejorar procesos operativos.
 
-<h1 align="center">hola 👋</h1>
+Actualmente trabajo en proyectos vinculados a **GovTech**, gestión municipal, arquitectura de software y visualización de información para la toma de decisiones.
 
-###
+Me interesa especialmente construir software que no solo funcione, sino que también ordene procesos, genere trazabilidad y convierta datos dispersos en información útil.
 
-<h3 align="left">👩‍💻  sobre mí</h3>
+---
 
-###
+## Áreas de trabajo
 
-<p align="left">soy Tomás de Argentina<br><br>🔭 currently working as DBA for Subsecretaria de Tránsito, VL.<br>📚 estoy estudiando Ciencias de la Computación @ UBA</p>
+* Desarrollo de aplicaciones web modernas
+* Sistemas de gestión internos
+* GovTech y transformación digital pública
+* Arquitectura de software
+* Automatización de procesos
+* Análisis y visualización de datos
+* Diseño de bases de datos
+* Integraciones entre sistemas
+* Scraping y procesamiento de información
+* Dashboards e indicadores de gestión
 
-###
+---
 
-<h3 align="left">🛠 coding</h3>
-
-###
+## Stack principal
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="40" alt="haskell logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="38" alt="TypeScript" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" alt="JavaScript" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="Python" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38" alt="React" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="38" alt="Next.js" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="38" alt="Flask" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="38" alt="Tailwind CSS" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="38" alt="PostgreSQL" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38" alt="MySQL" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="38" alt="SQLite" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="38" alt="Docker" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="Git" />
+
+</div>
+
+---
+
+## Tecnologías y herramientas
+
+### Frontend
+
+`React` · `Next.js` · `TypeScript` · `Tailwind CSS` · `HTML` · `CSS`
+
+### Backend
+
+`Python` · `Flask` · `Node.js` · `Go`
+
+### Bases de datos
+
+`PostgreSQL` · `SQLite` · `Modelado de datos`
+
+### Infraestructura y herramientas
+
+`Docker` · `Git` · `Linux` · `CI/CD` · `Cloudflare` · `Servidores`
+
+---
+
+## Actualmente
+
+* Construyendo software para gestión pública y análisis operativo.
+* Trabajando con sistemas web, bases de datos y dashboards.
+* Profundizando en arquitectura de software, datos y automatización.
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=tomasacebal&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="160" alt="GitHub stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasacebal&layout=compact&theme=transparent&hide_border=true" height="160" alt="Top languages" />
+
+</div>
+
+---
+
+## Contacto
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Contactar-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/augusto-tomas-acebal/)
+[![GitHub](https://img.shields.io/badge/GitHub-tomasacebal-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/tomasacebal)
+
 </div>
